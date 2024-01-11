@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👂 My name is: Martin,
+⚡ I'm: 21 years old,
+🌱 I’m currently learning: C,
+❤️ I love: Videogames,
+💻 Favorite lang: Python & JavaScript
 <!--
 **MRTN74/MRTN74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
