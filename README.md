@@ -10,7 +10,7 @@ Passionate about building modern web applications, interactive digital experienc
 ### 🚀 About Me
 
 - 🌱 Currently improving my skills in **React, Node.js and backend development**
-- 💻 Focused on **Full Stack Web Development**
+- 💻 Focused on **Full Stack Development**
 - 🎮 Interested in videogames, UI/UX and interactive applications
 - ⚡ Learning more about **C and software fundamentals**
 - 📫 Reach me at: **m.gallo08@protonmail.com**
