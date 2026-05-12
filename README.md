@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-Passionate about building modern web applications, learning new technologies, and creating interactive digital experiences.
+Passionate about building modern web applications, interactive digital experiences, user-focused interfaces and always learning new technologies.
 </p>
 
 ---
@@ -13,7 +13,7 @@ Passionate about building modern web applications, learning new technologies, an
 - 💻 Focused on **Full Stack Web Development**
 - 🎮 Interested in videogames, UI/UX and interactive applications
 - ⚡ Learning more about **C and software fundamentals**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **m.gallo08@protonmail.com**
 
 ---
 
