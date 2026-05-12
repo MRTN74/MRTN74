@@ -30,7 +30,7 @@ Passionate about building modern web applications, interactive digital experienc
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,python,flask,mongodb,mysql,git,vscode" />
 </p>
 
 <!--
